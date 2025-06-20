@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "title": "AI Takes Over Diagnostics",
+    "description": "Doctors now use AI to help diagnose diseases faster and more accurately.",
+    "category": "Technology",
+    "image": "https://source.unsplash.com/featured/?ai,healthcare"
+  },
+  {
+    "id": 2,
+    "title": "Climate Change Worsens",
+    "description": "UN releases new climate data that suggests worsening global patterns.",
+    "category": "Environment",
+    "image": "https://source.unsplash.com/featured/?climate"
+  },
+  {
+    "id": 3,
+    "title": "SpaceX Launches Another Rocket",
+    "description": "SpaceX completes another successful launch for Starlink satellites.",
+    "category": "Science",
+    "image": "https://source.unsplash.com/featured/?spacex"
+  },
+  {
+  "id": 6,
+  "title": "India Wins the World Cup",
+  "description": "Team India clinches the championship in a stunning final match.",
+  "category": "Sports",
+  "image": "https://source.unsplash.com/300x200/?cricket,sports"
+},
+{
+  "id": 7,
+  "title": "Latest Movie Review: Interstellar 2",
+  "description": "An epic sequel that dives deeper into the cosmos.",
+  "category": "Movies",
+  "image": "https://source.unsplash.com/300x200/?movie,cinema"
+},
+{
+  "id": 8,
+  "title": "NEET 2025 Preparation Guide",
+  "description": "Resources and strategies to excel in NEET.",
+  "category": "Education",
+  "image": "https://source.unsplash.com/300x200/?education,books"
+},
+{
+  "id": 9,
+  "title": "OpenAI launches GPT-5",
+  "description": "AI reaches new heights with GPT-5's multimodal reasoning.",
+  "category": "Technology",
+  "subtopic": "AI",
+  "image": "https://source.unsplash.com/300x200/?artificial-intelligence"
+}
+
+
+]
