@@ -17,7 +17,7 @@ A sleek and responsive frontend news reader built with **React** and **Vite**, a
 
 ## 🚀 Live Demo
 
-👉 [Click to Visit](https://news-aggregator.vercel.app)
+👉 [Click to Visit](https://vercel.com/manasa-lakshmi-nekkantis-projects/news-aggregator/7jiBhPFPHNp1e5N89rzjvvmu1YPG)
 
 ## 📁 Tech Stack
 
