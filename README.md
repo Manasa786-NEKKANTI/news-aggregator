@@ -1,36 +1,48 @@
-# 📰 News Aggregator - Frontend Project
+# 📰 News Aggregator
 
-This is a responsive news aggregator web app built using **React**, as part of the **Gigaversity Frontend Developer Internship assignment**.
+A sleek and responsive frontend news reader built with **React** and **Vite**, allowing users to explore categorized articles, search, and save their favorites — all in a beautiful UI.
+
+## 🌟 Features
+
+- 🔍 Search across all articles in real-time
+- 🏷️ Filter by categories: Technology, Science, Environment, Sports, Movies, Education
+- 💾 Bookmark articles (saved in localStorage)
+- 🎨 Modern responsive UI using Material UI
+- 📱 Mobile-friendly and accessible
+- 🚀 Deployed on Vercel
+
+## 📸 Preview
+
+![News Aggregator Screenshot](./preview.png)
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the deployed app](https://your-vercel-url.vercel.app)
+👉 [Click to Visit](https://news-aggregator.vercel.app)
 
-> Replace the link above with your actual Vercel deployment URL after publishing
+## 📁 Tech Stack
 
----
-
-## ✨ Features
-
-- 🔍 **Live Search** – Filter articles as you type
-- 🗂️ **Category Filter Tabs** – Technology, Environment, Science, etc.
-- 📄 **Article Cards** – With image, title, description, and category
-- 📌 **Bookmark Feature** – Save articles to localStorage
-- 📁 **Bookmark Panel** – View and manage saved articles
-- 📱 **Fully Responsive** – Works on mobile, tablet, and desktop
-- ⚛️ Built with **React (Vite)** and modern UI practices
+- React
+- Vite
+- JavaScript
+- CSS (inline & MUI)
+- localStorage
+- Git & GitHub
+- Vercel
 
 ---
 
-## 🛠️ Tech Stack
+## 👩‍💻 Developer
 
-- React (via Vite)
-- HTML + CSS + JS (frontend only)
-- LocalStorage for bookmark persistence
-- Material UI or custom CSS
-- Unsplash for dummy news images
+**Manasa Lakshmi Nekkanti**  
+Frontend Developer | React Enthusiast  
+[GitHub Profile](https://github.com/Manasa786-NEKKANTI)
 
 ---
 
-## 📂 Folder Structure
+## 📬 For Gigaversity Submission
+
+> **Project Name:** News Aggregator  
+> **Frontend Framework:** React (Vite)  
+> **Deployed Link:** [https://news-aggregator.vercel.app](https://news-aggregator.vercel.app)  
+> **GitHub Repo:** [https://github.com/Manasa786-NEKKANTI/news-aggregator](https://github.com/Manasa786-NEKKANTI/news-aggregator)
 
