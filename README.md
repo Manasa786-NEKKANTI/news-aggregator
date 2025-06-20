@@ -10,10 +10,7 @@ A sleek and responsive frontend news reader built with **React** and **Vite**, a
 - 🎨 Modern responsive UI using Material UI
 - 📱 Mobile-friendly and accessible
 - 🚀 Deployed on Vercel
-
-## 📸 Preview
-
-![News Aggregator Screenshot](./preview.png)
+- 
 
 ## 🚀 Live Demo
 
