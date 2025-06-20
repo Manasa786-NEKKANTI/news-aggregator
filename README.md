@@ -40,6 +40,6 @@ Frontend Developer | React Enthusiast
 
 > **Project Name:** News Aggregator  
 > **Frontend Framework:** React (Vite)  
-> **Deployed Link:** [https://news-aggregator.vercel.app](https://news-aggregator.vercel.app)  
+> **Deployed Link:** [https://news-aggregator.vercel.app](https://vercel.com/manasa-lakshmi-nekkantis-projects/news-aggregator/7jiBhPFPHNp1e5N89rzjvvmu1YPG)  
 > **GitHub Repo:** [https://github.com/Manasa786-NEKKANTI/news-aggregator](https://github.com/Manasa786-NEKKANTI/news-aggregator)
 
